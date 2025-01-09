@@ -96,7 +96,7 @@ ___
 
 
 ## 📬 SOCIALS:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-bad))](https://www.linkedin.com/in/prakhar-awasthi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prakharawasthi_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-bad)](https://www.linkedin.com/in/prakhar-awasthi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prakharawasthi_)
 
 ---
 
