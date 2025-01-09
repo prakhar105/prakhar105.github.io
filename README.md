@@ -96,7 +96,7 @@ ___
 
 
 ## 📬 SOCIALS:
-[![LinkedIn](https://www.linkedin.com/in/prakhar-awasthi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prakharawasthi_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-awasthi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prakharawasthi_)
 
 ---
 
