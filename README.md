@@ -84,7 +84,7 @@ ___
 - [Chatbot](https://www.youtube.com/watch?v=5TX2ptqf64M) controlled IOT system
 - [Covid19X-ray](https://github.com/prakhar199/BIRDS-400-SPECIES-IMAGE-CLASSIFICATION-EFNET-LSTTM/blob/main/BIRDS_400_SPECIES_IMAGE_CLASSIFICATION_EFNET_LSTTM.ipynb) classification using EF-net
 - [Bionic using AD5266 sensor and voice controlled](https://www.youtube.com/shorts/iFf417xpYAM) arm
-- [YOLO Gradio App](https://github.com/ashuguptahere/yolo-gradio-app)**
+- [YOLO Gradio App](https://github.com/ashuguptahere/yolo-gradio-app)
 - [Blog Generation using LLama 2 7B model](https://github.com/prakhar105/Blog-Generation-using-LLama-2-7B-model)
 ---
 
